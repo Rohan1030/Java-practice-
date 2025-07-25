@@ -1,3 +1,8 @@
+// 1️⃣ Basic Range Sum — Brute Force
+// Q: Given an array nums and indices i and j, write a function to return the sum of all elements from index i to j (inclusive).
+// Goal: Get comfortable with loops, indexing, and ranges.
+// 👉 Expected: O(n) for each query.
+
 package prefixSum;
 import java.util.*;
 
@@ -28,7 +33,7 @@ public class rangesum {
     }
     System.out.println("Sum from index " + i + " to " + j + " is: " + sum);
 
-    
+
 
     
 
